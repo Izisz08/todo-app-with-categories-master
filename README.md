@@ -1,8 +1,12 @@
 📝 TodoApp - Működés és Főbb Elemek Összefoglalása
+
 🎯 Az alkalmazás lényege
 Modern Angular 20 alapú feladatkezelő alkalmazás, amely lehetővé teszi feladatok kategorizálását, időrendi kezelését és ismétlődő feladatok automatikus generálását.
+
 🏗️ Fő komponensek
+
 1. Models (Adatmodellek)
+
 Todo interface: feladat alapadatok
 •	id: egyedi azonosító
 •	title: feladat címe (kötelező)
